@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on My Docs</title>
-    <link>http://localhost:53183/blog/</link>
+    <link>https://yxuan0329.github.io/xuansite/blog/</link>
     <description>Recent content in Blog on My Docs</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Thu, 07 Sep 2023 16:27:22 +0200</lastBuildDate>
-    <atom:link href="http://localhost:53183/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 18:04:20 +0800</lastBuildDate>
+    <atom:link href="https://yxuan0329.github.io/xuansite/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start From Hugo</title>
+      <link>https://yxuan0329.github.io/xuansite/blog/start-from-hugo/</link>
+      <pubDate>Fri, 04 Oct 2024 18:04:20 +0800</pubDate>
+      <guid>https://yxuan0329.github.io/xuansite/blog/start-from-hugo/</guid>
+      <description>HUGO初學習！終於架自己的網站🤓</description>
+    </item>
     <item>
       <title>Example Post</title>
-      <link>http://localhost:53183/blog/example-post/</link>
+      <link>https://yxuan0329.github.io/xuansite/blog/example-post/</link>
       <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>http://localhost:53183/blog/example-post/</guid>
+      <guid>https://yxuan0329.github.io/xuansite/blog/example-post/</guid>
       <description>You can use blog posts for announcing product updates and features.</description>
     </item>
   </channel>

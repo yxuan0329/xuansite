@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Docs</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Fri, 04 Oct 2024 18:01:36 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start From Hugo</title>
+      <link>http://localhost:1313/posts/start-from-hugo/</link>
+      <pubDate>Fri, 04 Oct 2024 18:01:36 +0800</pubDate>
+      <guid>http://localhost:1313/posts/start-from-hugo/</guid>
+      <description>HUGO初學習！終於架自己的網站🤓</description>
+    </item>
+  </channel>
+</rss>

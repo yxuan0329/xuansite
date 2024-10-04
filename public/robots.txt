@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /admin/
-Sitemap: http://localhost:53183/sitemap.xml
+Sitemap: https://yxuan0329.github.io/sitemap.xml

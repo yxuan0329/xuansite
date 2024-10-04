@@ -2,53 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XUAN&#39;s on My Docs</title>
-    <link>http://localhost:53183/</link>
+    <link>https://yxuan0329.github.io/xuansite/</link>
     <description>Recent content in XUAN&#39;s on My Docs</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Fri, 04 Oct 2024 10:50:46 +0800</lastBuildDate>
-    <atom:link href="http://localhost:53183/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 18:04:20 +0800</lastBuildDate>
+    <atom:link href="https://yxuan0329.github.io/xuansite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start From Hugo</title>
+      <link>https://yxuan0329.github.io/xuansite/blog/start-from-hugo/</link>
+      <pubDate>Fri, 04 Oct 2024 18:04:20 +0800</pubDate>
+      <guid>https://yxuan0329.github.io/xuansite/blog/start-from-hugo/</guid>
+      <description>HUGO初學習！終於架自己的網站🤓</description>
+    </item>
     <item>
       <title>Example Post</title>
-      <link>http://localhost:53183/blog/example-post/</link>
+      <link>https://yxuan0329.github.io/xuansite/blog/example-post/</link>
       <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>http://localhost:53183/blog/example-post/</guid>
+      <guid>https://yxuan0329.github.io/xuansite/blog/example-post/</guid>
       <description>You can use blog posts for announcing product updates and features.</description>
     </item>
     <item>
       <title>Example Guide</title>
-      <link>http://localhost:53183/docs/guides/example-guide/</link>
+      <link>https://yxuan0329.github.io/xuansite/docs/guides/example-guide/</link>
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>http://localhost:53183/docs/guides/example-guide/</guid>
+      <guid>https://yxuan0329.github.io/xuansite/docs/guides/example-guide/</guid>
       <description>&lt;p&gt;Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Example Reference</title>
-      <link>http://localhost:53183/docs/reference/example-reference/</link>
+      <link>https://yxuan0329.github.io/xuansite/docs/reference/example-reference/</link>
       <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:53183/docs/reference/example-reference/</guid>
+      <guid>https://yxuan0329.github.io/xuansite/docs/reference/example-reference/</guid>
       <description>&lt;p&gt;Reference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Faq</title>
-      <link>http://localhost:53183/docs/guides/faq/</link>
+      <link>https://yxuan0329.github.io/xuansite/docs/guides/faq/</link>
       <pubDate>Fri, 04 Oct 2024 10:50:46 +0800</pubDate>
-      <guid>http://localhost:53183/docs/guides/faq/</guid>
+      <guid>https://yxuan0329.github.io/xuansite/docs/guides/faq/</guid>
       <description>&lt;p&gt;This is my first post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resources</title>
-      <link>http://localhost:53183/docs/resources/</link>
+      <link>https://yxuan0329.github.io/xuansite/docs/resources/</link>
       <pubDate>Tue, 27 Feb 2024 09:30:56 +0100</pubDate>
-      <guid>http://localhost:53183/docs/resources/</guid>
+      <guid>https://yxuan0329.github.io/xuansite/docs/resources/</guid>
       <description>&lt;p&gt;Link to valuable, relevant resources.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:53183/privacy/</link>
+      <link>https://yxuan0329.github.io/xuansite/privacy/</link>
       <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
-      <guid>http://localhost:53183/privacy/</guid>
+      <guid>https://yxuan0329.github.io/xuansite/privacy/</guid>
       <description></description>
     </item>
   </channel>
